@@ -1,1 +1,1 @@
-# Genetic Algorithm using OpenGL
+# Having some fun with shaders
